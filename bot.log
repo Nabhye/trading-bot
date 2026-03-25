@@ -1,0 +1,10 @@
+2026-03-25 18:55:31,743 - INFO - Attempting MARKET BUY for 0.01 BTCUSDT
+2026-03-25 18:55:32,383 - INFO - Order Successful: ID 12991971963
+2026-03-25 18:57:07,447 - INFO - Attempting LIMIT SELL for 0.01 BTCUSDT
+2026-03-25 18:57:07,954 - ERROR - Order Failed: APIError(code=-4024): Limit price can't be lower than 67998.25.
+2026-03-25 18:58:42,326 - INFO - Attempting LIMIT SELL for 0.01 BTCUSDT
+2026-03-25 18:58:42,947 - INFO - Order Successful: ID 12991994610
+2026-03-25 18:58:56,309 - INFO - Attempting LIMIT SELL for 0.01 BTCUSDT
+2026-03-25 18:58:56,794 - ERROR - Order Failed: APIError(code=-4024): Limit price can't be lower than 68012.05.
+2026-03-25 18:59:26,868 - INFO - Attempting LIMIT SELL for 0.01 BTCUSDT
+2026-03-25 18:59:27,287 - INFO - Order Successful: ID 12992003029
